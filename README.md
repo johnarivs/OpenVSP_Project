@@ -8,7 +8,8 @@
 4. Using the api, create a prop component and rotate and place it in a reasonable location
 5. Using the api, change the number of blades from the default value to another value (say from 3 blades to 5 blades)
 6. Using the api, change the blade twist, chord, and thickness distribution (exaggerate them to prove it is working)
-7. Write out the openvsp file to disk ##
+7. Write out the openvsp file to disk
 
-I decided to add my own twist to the challenge by modeling the the fuselage, wings, tails, and propeller after the Cesna 172 SuperHawk Model via a 3 view diagram seen in 
+### I decided to add my own twist to the challenge by modeling the the fuselage, wings, tails, and propeller after the Cesna 172 SuperHawk Model
+### I managed to model it via 3 layout
 This Cessna 172 Skyhawk Model is based off of some design publicly available in which I overlayed using the background tool and roughly sketched the Fuselage
