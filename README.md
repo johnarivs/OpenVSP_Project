@@ -11,5 +11,5 @@
 7. Write out the openvsp file to disk
 
 ### I decided to add my own twist to the challenge by modeling the the fuselage, wings, tails, and propeller after the Cesna 172 SuperHawk Model
-### I managed to model it via 3 layout
-This Cessna 172 Skyhawk Model is based off of some design publicly available in which I overlayed using the background tool and roughly sketched the Fuselage
+### I managed to model it via the (cessna.png) seen in the attached file which are also publicly available
+This Cessna 172 Skyhawk Model is based off of some design publicly available in which I overlayed using the background tool and roughly sketched the Fuselage, Wing, Tails, and propeller
